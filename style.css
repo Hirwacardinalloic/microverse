@@ -1,0 +1,39 @@
+
+body {
+   background-color: aquamarine;
+  }
+  #header {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+  }
+  #nav-bar {
+    padding: 30px 0 0 10px;
+  }
+  #nav-bar a  {
+      text-decoration: none;
+      padding: 20px;
+      color: black;
+   }
+  
+  #video{
+    display: block;
+    margin: auto;
+    width :760px ;
+    height : 415px;
+    margin-bottom: 70px;
+  }
+  
+  .form{
+    width:500px;
+    margin:0 auto;
+    height:350px;
+    
+  }
+  
+  
+ 
+
+  
+ 
